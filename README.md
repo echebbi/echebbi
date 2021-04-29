@@ -6,11 +6,11 @@ I'm currently a PhD student at Inria's [DiverSE team](https://www.diverse-team.f
 
 I contribute to open-source projects as much as possible but sadly I haven't had much free time lately.
 
-<center>
+<div align="center">
   
   [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echebbi&count_private=true&show_icons=true&hide_title=true)](https://github.com/echebbi)
   
-</center>
+</div>
 
 ## Contributions
 
