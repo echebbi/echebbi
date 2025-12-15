@@ -1,10 +1,10 @@
-### Hi there 👋
+### About me
 
-I'm Emmanuel, a developer found of programming and of automation in general. 
+I'm Emmanuel, I build software with a strong focus on maintainability and developer experience.
 
-I'm currently a PhD student at Inria's [DiverSE team](https://www.diverse-team.fr). I work on the topic of Language Engineering; more specifically I experiment with new ways of making programming languages modular in the aim of making easier to create new languages and to evolve existing ones. Catchy, isn't it? :smile:
+I’m particularly interested in building tools that improve collaboration and knowledge sharing in complex technical environments. My most recent large project was a collaboration platform for complex systems engineers; it was aimed at bringing practices like DevOps and CI/CD into systems engineering workflows.
 
-I contribute to open-source projects as much as possible but sadly I haven't had much free time lately.
+My professional background spans several years of industrial experience, academic work at Inria's [DiverSE team](https://www.diverse-team.fr) and entrepreneurship.
 
 <div align="center">
   
@@ -14,8 +14,9 @@ I contribute to open-source projects as much as possible but sadly I haven't had
 
 ## Contributions
 
-I actively contribute to the following projects:
+I used to actively contribute to the following projects:
 
+ - The Engineering Forge (will be open-sourced soon) is a research prototype of a collaboration platform for systems engineers that explored how to bring the best of software collaboration practices (DevOps, CI/CD, ...) to systems engineering.
  - [Pitclipse](https://github.com/pitest/pitclipse) is an plug-in for the Eclipse IDE allowing to perform mutation testing on your Java projects. Is is based on [PIT (Pitest)](http://pitest.org). 
  - [ALE (Action Language for EMF](https://github.com/gemoc/ale-lang) is an interpreted action language allowing to define behaviors on top of Ecore models and making them executable right away.
 
@@ -26,5 +27,13 @@ I created the following projects:
  - [Discord's Rich Presence for Eclipse IDE](https://github.com/echebbi/eclipse-discord-integration) is an Eclipse IDE plug-in that updates your Discord's status with the name of the files you're working on. The information shown and the wording are highly customizable.
  - [EKumi](https://github.com/echebbi/ekumi) is a proof-of-concept to experiment with modular and polyglot workflow management systems (WfMS). It is provided as a set of plug-ins for the Eclipse IDE.
 
+## Technical stack
 
+- **Primary**: Java (backend & tooling), Python (automation)
+- **Experienced with**: C++, Bash, SQL
+- **Backend**: Quarkus, Neo4J
+- **Modularity & platforms**: OSGi, Eclipse RCP
+- **Model-driven engineering**: Eclipse EMF, Xtext, Gemoc
+- **Tooling**: Git, Docker, Maven
 
+I have also spent several years developing a game with a friend using Unreal Engine 4/5, gaining experience in C++ game development and project management.
