@@ -2,9 +2,9 @@
 
 I'm Emmanuel, I build software with a strong focus on maintainability and developer experience.
 
-I’m particularly interested in building tools that improve collaboration and knowledge sharing in complex technical environments. My most recent large project was a collaboration platform for complex systems engineers; it was aimed at bringing practices like DevOps and CI/CD into systems engineering workflows.
+I’m particularly interested in building tools that improve collaboration and knowledge sharing in complex technical environments. My most recent large project was a collaboration platform for engineering; it was aimed at bringing practices like DevOps and CI/CD into systems engineering workflows.
 
-My professional background spans several years of industrial experience, academic work at Inria's [DiverSE team](https://www.diverse-team.fr) and entrepreneurship.
+My professional background spans 10 years of industrial experience, academic work at Inria's [DiverSE team](https://www.diverse-team.fr) and entrepreneurship.
 
 <div align="center">
   
@@ -16,9 +16,9 @@ My professional background spans several years of industrial experience, academi
 
 I used to actively contribute to the following projects:
 
- - The Engineering Forge (will be open-sourced soon) is a research prototype of a collaboration platform for systems engineers that explored how to bring the best of software collaboration practices (DevOps, CI/CD, ...) to systems engineering.
- - [Pitclipse](https://github.com/pitest/pitclipse) is an plug-in for the Eclipse IDE allowing to perform mutation testing on your Java projects. Is is based on [PIT (Pitest)](http://pitest.org). 
- - [ALE (Action Language for EMF](https://github.com/gemoc/ale-lang) is an interpreted action language allowing to define behaviors on top of Ecore models and making them executable right away.
+ - The Engineering Forge (will be open-sourced soon) is the research prototype of a multi-disciplinary collaboration platform that explored how to bring the best of software collaboration practices (DevOps, CI/CD, ...) to systems engineering.
+ - [Pitclipse](https://github.com/pitest/pitclipse) is an Eclipse IDE plug-in enabling mutation testing on your Java projects. Is is based on [PIT (Pitest)](http://pitest.org). 
+ - [ALE (Action Language for EMF)](https://github.com/gemoc/ale-lang) is an interpreted action language allowing to define behaviors on top of Ecore models and making them executable right away.
 
 ## Personal projects
 
@@ -36,4 +36,4 @@ I created the following projects:
 - **Model-driven engineering**: Eclipse EMF, Xtext, Gemoc
 - **Tooling**: Git, Docker, Maven
 
-I have also spent several years developing a game with a friend using Unreal Engine 4/5, gaining experience in C++ game development and project management.
+I am also creating a game with a friend using Unreal Engine 4/5, gaining experience in C++ game development and project management.
